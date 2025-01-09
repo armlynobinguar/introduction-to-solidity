@@ -33,8 +33,8 @@ npm --version
 
 
 ```bash
-git clone git@github.com:NTP-996/open-hack-vesting.git
-cd open-hack-vesting
+git clone https://github.com/armlynobinguar/introduction-to-solidity.git
+cd introduction-to-solidity
 npm i
 ```
 
